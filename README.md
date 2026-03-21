@@ -12,6 +12,7 @@ PancreasDxNet (Pancreatic Diagnosis Network) is a deep convolutional neural netw
 * keras = 3.6.0
 * scikit-learn
 * scipy
+* opencv-python
     
 ## Repository files:
 The files contained in this repository are as follows:
