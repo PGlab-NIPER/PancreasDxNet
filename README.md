@@ -87,7 +87,7 @@ View predicted class and probabilities
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use **PancreasDxNet** in your research, please cite:
 
